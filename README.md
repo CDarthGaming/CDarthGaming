@@ -1,13 +1,13 @@
 # Hey, welcome!
-
-[Linkedin](https://www.linkedin.com/in/tristan-walmsley-a8ba40335/)
-
-He / Him・AuDHD
-
-2nd Yr Computer Games Dev Student at The University of Lancashire
-Remote GCSE Maths Tutor at TeamUp
-[Creator of Destiny Playground](https://discord.gg/Ah6Jt5KVPH)
-Reject Events Builder & D2MC Dev
+   
+[Linkedin](https://www.linkedin.com/in/tristan-walmsley-a8ba40335/)  
+   
+He / Him・AuDHD  
+   
+2nd Yr Computer Games Dev Student at The University of Lancashire  
+Remote GCSE Maths Tutor at TeamUp  
+[Creator of Destiny Playground](https://discord.gg/Ah6Jt5KVPH)  
+Reject Events Builder & D2MC Dev  
 
 ## Projects
 - [Lancashire Hackaton 2026 - TrackTogether Website](https://github.com/CDarthGaming/TrackTogether)
