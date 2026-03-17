@@ -10,7 +10,7 @@ Remote GCSE Maths Tutor at TeamUp
 Reject Events Builder & D2MC Dev  
 
 ## Projects
-- [Lancashire Hackaton 2026 - TrackTogether Website](https://github.com/CDarthGaming/TrackTogether)
+- [Lancashire Hackaton 2026 - TrackTogether Website](https://github.com/CDarthGaming/TrackTogether) - currently supported (V1.1.2)
 
 ## University of Lancashire Assignments
 
